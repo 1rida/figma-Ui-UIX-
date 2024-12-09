@@ -1,8 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-import { useState } from 'react';
-import { FaTrophy, FaShieldAlt, FaShippingFast, FaHeadset } from 'react-icons/fa';
 
 
 
